@@ -15,7 +15,7 @@ The pack folder contains ready to use assets for different type of games / unive
 [<img src="/packs/town%20rpg/tiles-map.png" width="250" height="140">](packs/town%20rpg)
 
 ### Assets
-The assets folder contains a set of [backgrounds](/assets/backgrounds), [icons](/assets/icons) and [sprites](/assets/sprites)
+The assets folder contains a set of mixed [backgrounds](/assets/backgrounds), [icons](/assets/icons) and [sprites](/assets/sprites)
 
 ### External resources
 The assets on this github is a small subset of the free resources that you can find on internet.
