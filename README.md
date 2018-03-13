@@ -5,7 +5,7 @@ Feel free to contribute. Assets are free to use in the CodinGame SDK (or for any
 ### Packs
 The pack folder contains ready to use assets for different type of games / universes.
 
-**Some examples:**
+**Some examples:** (Browse the content of the [packs](packs) folder for a full list of packs)
 
 [<img src="/packs/board%20game/sample.png" width="290">](/packs/board%20game)
 [<img src="/packs/bricks/sample.jpg" width="290" height="163">](/packs/bricks)
