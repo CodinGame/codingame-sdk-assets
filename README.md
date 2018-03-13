@@ -7,12 +7,18 @@ The pack folder contains ready to use assets for different type of games / unive
 
 **Some examples:**
 
-[<img src="/packs/board%20game/sample.png" width="250">](/packs/board%20game)
-[<img src="/packs/bricks/sample.jpg" width="250" height="140">](/packs/bricks)
-[<img src="/packs/pirates/Sample.png" width="250">](/packs/pirates)
-[<img src="/packs/isometric%20dungeon/Sample.png" width="250">](/packs/isometric%20dungeon)
-[<img src="/packs/racing/Sample.png" width="250">](/packs/racing)
-[<img src="/packs/town%20rpg/tiles-map.png" width="250" height="140">](packs/town%20rpg)
+[<img src="/packs/board%20game/sample.png" width="290">](/packs/board%20game)
+[<img src="/packs/bricks/sample.jpg" width="290" height="163">](/packs/bricks)
+[<img src="/packs/pirates/Sample.png" width="290">](/packs/pirates)
+[<img src="/packs/isometric%20dungeon/Sample.png" width="290">](/packs/isometric%20dungeon)
+[<img src="/packs/racing/Sample.png" width="290">](/packs/racing)
+[<img src="/packs/town%20rpg/tiles-map.png" width="290" height="163">](packs/town%20rpg)
+[<img src="/packs/space%20shooter/sample.png" width="290" height="163">](packs/space%20shooter)
+[<img src="/packs/isometric%20dungeon/Sample.png" width="290">](packs/isometric%20dungeon)
+[<img src="/packs/topdown%20tanks/Sample.png" width="290">](packs/topdown%20tanks)
+[<img src="/packs/topdown%20tower%20defense/Sample.png" width="290">](packs/topdown%20tower%20defense)
+[<img src="/packs/isometric%20vehicles/Sample.png" width="290">](packs/isometric%20vehicles)
+[<img src="/packs/fish/Sample.png" width="290">](packs/fish)
 
 ### Assets
 The assets folder contains a set of mixed [backgrounds](/assets/backgrounds), [icons](/assets/icons) and [sprites](/assets/sprites)
