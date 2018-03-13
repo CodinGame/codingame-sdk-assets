@@ -61,5 +61,5 @@ String[] images = graphics.createSpriteSheetLoader
                           .setImagesPerRow(4)
                           .setOrigRow(1)
                           .setOrigCol(0);
-SpriteAnimation runAnimation = entityManager.createSpriteAnimation().setImages(images);
+SpriteAnimation runAnimation = graphics.createSpriteAnimation().setImages(images);
 ```
