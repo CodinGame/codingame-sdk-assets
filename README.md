@@ -16,7 +16,7 @@ The pack folder contains ready to use assets for different type of games / unive
 [<img src="/packs/space%20shooter/sample.png" width="290" height="163">](packs/space%20shooter)
 [<img src="/packs/isometric%20dungeon/Sample.png" width="290">](packs/isometric%20dungeon)
 [<img src="/packs/topdown%20tanks/Sample.png" width="290">](packs/topdown%20tanks)
-[<img src="/packs/topdown%20tower%20defense/Sample.png" width="290">](packs/topdown%20tower%20defense)
+[<img src="/packs/sport/Sample1.png" width="290">](packs/sport)
 [<img src="/packs/isometric%20vehicles/Sample.png" width="290">](packs/isometric%20vehicles)
 [<img src="/packs/fish/Sample.png" width="290">](packs/fish)
 
