@@ -23,10 +23,10 @@ _Browse the content of the [packs](packs) folder for a full list of packs_
 [<img src="/packs/fish/Sample.png" width="290">](packs/fish)
 
 ### Assets
-The assets folder contains a set of mixed [backgrounds](/assets/backgrounds), [icons](/assets/icons) and [sprites](/assets/sprites)
+The [assets](assets) folder contains a set of mixed [backgrounds](/assets/backgrounds), [icons](/assets/icons) and [sprites](/assets/sprites)
 
 ### External resources
-The [assets](assets) on this github is a small subset of the free resources that you can find on internet.
+The assets on this github is a small subset of the free resources that you can find on internet.
 Some links to help you find assets for your games:
 
 * Character genertor _by [Gaurav Munjal](http://gaurav.munjal.us)_ - http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator
