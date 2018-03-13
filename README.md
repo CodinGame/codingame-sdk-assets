@@ -14,7 +14,8 @@ The pack folder contains ready to use assets for different type of games / unive
 [<img src="/packs/racing/Sample.png" width="250">](/packs/racing)
 [<img src="/packs/town%20rpg/tiles-map.png" width="250" height="140">](packs/town%20rpg)
 [<img src="/packs/space%20shooter/sample.png" width="250" height="140">](packs/space%20shooter)
-[<img src="/packs/platformer/svg/Sample.svg" width="250" height="140">](/packs/platformer)
+[<img src="/packs/platformer/svg/Sample.svg" width="250" height="140">](packs/platformer)
+[<img src="/packs/topdown%20tanks/Sample.png" width="250" height="140">](packs/topdown%20tanks)
 
 ### Assets
 The assets folder contains a set of mixed [backgrounds](/assets/backgrounds), [icons](/assets/icons) and [sprites](/assets/sprites)
