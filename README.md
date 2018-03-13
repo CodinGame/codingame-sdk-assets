@@ -18,7 +18,7 @@ The pack folder contains ready to use assets for different type of games / unive
 [<img src="/packs/topdown%20tanks/Sample.png" width="290">](packs/topdown%20tanks)
 [<img src="/packs/topdown%20tower%20defense/Sample.png" width="290">](packs/topdown%20tower%20defense)
 [<img src="/packs/isometric%20vehicles/Sample.png" width="290">](packs/isometric%20vehicles)
-[<img src="/packs/fish/Sample.png" width="250">](packs/fish)
+[<img src="/packs/fish/Sample.png" width="290">](packs/fish)
 
 ### Assets
 The assets folder contains a set of mixed [backgrounds](/assets/backgrounds), [icons](/assets/icons) and [sprites](/assets/sprites)
