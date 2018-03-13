@@ -4,6 +4,7 @@ Feel free to contribute. Assets are free to use in the CodinGame SDK (or for any
 
 ### Packs
 The pack folder contains ready to use assets for different type of games / universes.
+
 _Browse the content of the [packs](packs) folder for a full list of packs_
 
 **Some examples:**
