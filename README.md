@@ -1,6 +1,6 @@
 ## Assets packs to use in the CodinGame SDK
 
-Feel free to contribute. Assets are free to use in the CodinGame SDK (or for any commercial project). Most of the resources are licensed and distributed under the terms of [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) (or accompagned with a dedicated licence file if different)
+Feel free to clone and contribute. Assets are free to use in the CodinGame SDK (or for any commercial project). Most of the resources are licensed and distributed under the terms of [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) (or accompagned with a dedicated licence file if different)
 
 ### Packs
 The pack folder contains ready to use assets for different type of games / universes.
@@ -29,9 +29,9 @@ The [assets](assets) folder contains a set of mixed [backgrounds](/assets/backgr
 The assets on this github is a small subset of the free resources that you can find on internet.
 Some links to help you find assets for your games:
 
-* Character genertor _by [Gaurav Munjal](http://gaurav.munjal.us)_ - http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator
+* Top quality assets packs _on [Kenney.nl](http://kenney.nl/assets)_
 * RPG Makers style _by [Sithjester](http://untamed.wild-refuge.net/rmxpresources.php?characters)_ - http://untamed.wild-refuge.net/rmxpresources.php?characters
-* Good quality assets packs _on [KenneY](http://kenney.nl/assets)_
+* Character generator _by [Gaurav Munjal](http://gaurav.munjal.us)_ - http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator
 * Hundreds of CC0 sprites _on [Superpowers](http://superpowers-html5.com)_
 * Free 2D assets (use the price filtering) _on the [Unity Asset Store](https://assetstore.unity.com/categories/2d)_
 * Free 2D assets _on [itch.io](itch.io)_ - https://itch.io/game-assets/free
