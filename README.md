@@ -26,6 +26,8 @@ Some links to help you find assets for your games:
 * Good quality assets packs _on [KenneY](http://kenney.nl/assets)_
 * Hundreds of CC0 sprites _on [Superpowers](http://superpowers-html5.com)_
 * Free 2D assets (use the price filtering) _on the [Unity Asset Store](https://assetstore.unity.com/categories/2d)_
+* Free 2D assets _on [itch.io](itch.io)_ - https://itch.io/game-assets/free
+* Free 2D assets _on [Game 2D Art](https://www.gameart2d.com)_ - https://www.gameart2d.com/freebies.html
 
 ### Integration example
 You can integrate assets in your games by adding them in the `/src/main/resources/view/assets` folder of your project.
