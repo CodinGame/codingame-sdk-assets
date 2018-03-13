@@ -1,9 +1,9 @@
 ## Assets packs to use for the CodinGame SDK
 
-Feel free to contribute. Assets are free to use in the CodinGame SDK (or for any commercial project). Most of the resources are licensed and distributed under the termo of [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) (or accompagned with a dedicated licence file)
+Feel free to contribute. Assets are free to use in the CodinGame SDK (or for any commercial project). Most of the resources are licensed and distributed under the terms of [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) (or accompagned with a dedicated licence file if different)
 
 ### Packs
-The pack folder contains ready to use assets for different type of game / universe.
+The pack folder contains ready to use assets for different type of games / universes.
 
 **Some examples:**
 
@@ -26,3 +26,35 @@ Some links to help you find assets for your games:
 * Good quality assets packs _on [KenneY](http://kenney.nl/assets)_
 * Hundreds of CC0 sprites _on [Superpowers](http://superpowers-html5.com)_
 * Free 2D assets (use the price filtering) _on the [Unity Asset Store](https://assetstore.unity.com/categories/2d)_
+
+### Integration example
+You can integrate assets in your games by adding them in the `/src/main/resources/view/assets` folder of your project.
+
+Then, you can reference Sprites in your game with the GraphicalEntityModule.
+
+With sprites:
+```java
+@Inject GraphicEntityModule graphics;
+
+...
+
+Sprite sprite = graphics.createSprite().setImage("background.jpg");
+```
+
+Or with SpriteSheets (Images including multiple sprites)
+```java
+@Inject GraphicEntityModule graphics;
+
+...
+
+String[] images = graphics.createSpriteSheetLoader
+                          .setSourceImage("character.png")
+                          .setName("run")
+                          .setWidth(32)
+                          .setHeight(32)
+                          .setImageCount(4)
+                          .setImagesPerRow(4)
+                          .setOrigRow(1)
+                          .setOrigCol(0);
+SpriteAnimation runAnimation = entityManager.createSpriteAnimation().setImages(images);
+```
