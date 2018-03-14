@@ -16,7 +16,7 @@ _Browse the content of the [packs](packs) folder for a full list of packs_
 [<img src="/packs/racing/Sample.png" width="290">](/packs/racing)
 [<img src="/packs/town%20rpg/tiles-map.png" width="290" height="163">](packs/town%20rpg)
 [<img src="/packs/space%20shooter/sample.png" width="290" height="163">](packs/space%20shooter)
-[<img src="/packs/topdown%20tower%20defense/Sample.png" width="290">](packs/isometric%20dungeon)
+[<img src="/packs/isometric%20prototypes/Sample.png" width="290">](packs/isometric%20prototypes)
 [<img src="/packs/topdown%20tanks/Sample.png" width="290">](packs/topdown%20tanks)
 [<img src="/packs/sport/Sample1.png" width="290">](packs/sport)
 [<img src="/packs/isometric%20vehicles/Sample.png" width="290">](packs/isometric%20vehicles)
