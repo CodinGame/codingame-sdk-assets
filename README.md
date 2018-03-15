@@ -1,6 +1,6 @@
 ## Assets packs to use in the CodinGame SDK
 
-Feel free to clone and contribute. Assets are free to use in the CodinGame SDK (or for any commercial project). Most of the resources are licensed and distributed under the terms of [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) (or accompagned with a dedicated licence file if different)
+Feel free to clone and contribute. Assets are free to use in the CodinGame SDK (or for any project). Most of the resources are licensed and distributed under the terms of [CC0](https://creativecommons.org/share-your-work/public-domain/cc0) (or accompagned with a dedicated licence file if different)
 
 ### Packs
 The pack folder contains ready to use assets for different type of games / universes.
