@@ -68,6 +68,7 @@ String[] images = graphics.createSpriteSheetLoader
                           .setImageCount(4)
                           .setImagesPerRow(4)
                           .setOrigRow(1)
-                          .setOrigCol(0);
+                          .setOrigCol(0)
+                          .load();
 SpriteAnimation runAnimation = graphics.createSpriteAnimation().setImages(images);
 ```
