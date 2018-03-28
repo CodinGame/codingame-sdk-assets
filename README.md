@@ -60,7 +60,7 @@ Or with SpriteSheets (Images including multiple sprites)
 
 ...
 
-String[] images = graphics.createSpriteSheetLoader
+String[] images = graphics.createSpriteSheetLoader()
                           .setSourceImage("character.png")
                           .setName("run")
                           .setWidth(32)
