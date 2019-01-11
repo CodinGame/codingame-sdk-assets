@@ -60,7 +60,7 @@ Or with SpriteSheets (Images including multiple sprites)
 
 ...
 
-String[] images = graphics.createSpriteSheetLoader()
+String[] images = graphics.createSpriteSheetSplitter()
                           .setSourceImage("character.png")
                           .setName("run")
                           .setWidth(32)
@@ -69,6 +69,6 @@ String[] images = graphics.createSpriteSheetLoader()
                           .setImagesPerRow(4)
                           .setOrigRow(1)
                           .setOrigCol(0)
-                          .load();
+                          .split();
 SpriteAnimation runAnimation = graphics.createSpriteAnimation().setImages(images);
 ```
